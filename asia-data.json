@@ -1,51 +1,51 @@
 [
 	{
-		id: 1,
-		name: "Japan",
-		info: "Japan, an island nation in East Asia, blends ancient traditions with cutting-edge technology. Known for its rich culture, it features iconic landmarks like Mount Fuji, historic temples, and bustling cities such as Tokyo and Kyoto. Japan excels in innovation, cuisine, and arts, making it a unique and influential country globally.",
-		image: "https://images.unsplash.com/photo-1542640244-7e672d6cef4e?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D",
-		price: "2,53,690",
+		"id": 1,
+		"name": "Japan",
+		"info": "Japan, an island nation in East Asia, blends ancient traditions with cutting-edge technology. Known for its rich culture, it features iconic landmarks like Mount Fuji, historic temples, and bustling cities such as Tokyo and Kyoto. Japan excels in innovation, cuisine, and arts, making it a unique and influential country globally.",
+		"image": "https://images.unsplash.com/photo-1542640244-7e672d6cef4e?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D",
+		"price": "2,53,690"
 	},
 	{
-		id: 2,
-		name: "Mongolia",
-		info: `Mongolia, a landlocked nation in East Asia, is renowned for its vast steppes, nomadic culture, and the Gobi Desert. With Ulaanbaatar as its capital, it boasts a rich history linked to Genghis Khan and the Mongol Empire. Mongolia's traditions, including Naadam festival, and its stunning landscapes make it a unique and captivating destination.`,
-		image: "https://watermark.lovepik.com/photo/20211201/large/lovepik-ulaanbaatar-city-sunset-picture_501347429.jpg",
-		price: "1,43,577",
+		"id": 2,
+		"name": "Mongolia",
+		"info": "Mongolia, a landlocked nation in East Asia, is renowned for its vast steppes, nomadic culture, and the Gobi Desert. With Ulaanbaatar as its capital, it boasts a rich history linked to Genghis Khan and the Mongol Empire. Mongolia's traditions, including Naadam festival, and its stunning landscapes make it a unique and captivating destination.",
+		"image": "https://watermark.lovepik.com/photo/20211201/large/lovepik-ulaanbaatar-city-sunset-picture_501347429.jpg",
+		"price": "1,43,577"
 	},
 	{
-		id: 3,
-		name: "China",
-		info: "China, the world's most populous country, blends ancient history with modern dynamism. From the Great Wall to the bustling cities of Beijing, Shanghai, and Guangzhou, China dazzles with its cultural heritage, diverse landscapes, and technological advancements. It's renowned for its cuisine, martial arts, and Confucian philosophy, influencing global culture and economy significantly.",
-		image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-		price: "1,82,230",
+		"id": 3,
+		"name": "China",
+		"info": "China, the world's most populous country, blends ancient history with modern dynamism. From the Great Wall to the bustling cities of Beijing, Shanghai, and Guangzhou, China dazzles with its cultural heritage, diverse landscapes, and technological advancements. It's renowned for its cuisine, martial arts, and Confucian philosophy, influencing global culture and economy significantly.",
+		"image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"price": "1,82,230"
 	},
 	{
-		id: 4,
-		name: "South Korea",
-		info: "South Korea, located in East Asia, is celebrated for its rapid modernization, vibrant pop culture, and rich heritage. Seoul, its capital, blends futuristic skyscrapers with historic palaces like Gyeongbokgung. The country is famous for K-pop music, Korean dramas, and technological innovation. South Korea also offers scenic beauty, with national parks like Seoraksan attracting tourists. Its cuisine, including kimchi and bibimbap, reflects a unique culinary tradition admired worldwide.",
-		image: "https://images.unsplash.com/photo-1538670178144-b8db27bad945?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-		price: "1,68,900",
+		"id": 4,
+		"name": "South Korea",
+		"info": "South Korea, located in East Asia, is celebrated for its rapid modernization, vibrant pop culture, and rich heritage. Seoul, its capital, blends futuristic skyscrapers with historic palaces like Gyeongbokgung. The country is famous for K-pop music, Korean dramas, and technological innovation. South Korea also offers scenic beauty, with national parks like Seoraksan attracting tourists. Its cuisine, including kimchi and bibimbap, reflects a unique culinary tradition admired worldwide.",
+		"image": "https://images.unsplash.com/photo-1538670178144-b8db27bad945?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"price": "1,68,900"
 	},
 	{
-		id: 5,
-		name: "Taiwan",
-		info: "Taiwan, an island nation in East Asia, is known for its stunning landscapes, vibrant culture, and technological prowess. Taipei, its capital, is a bustling metropolis with iconic landmarks like Taipei 101. Taiwan's rich history is evident in its temples, such as Longshan, and traditional festivals like Lunar New Year. The island offers diverse natural beauty, from Taroko Gorge to Sun Moon Lake. Taiwan is renowned for its delicious street food, including beef noodles and bubble tea, contributing to its reputation as a food paradise.",
-		image: "https://images.unsplash.com/photo-1571474004502-c1def214ac6d?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-		price: "1,30,372",
+		"id": 5,
+		"name": "Taiwan",
+		"info": "Taiwan, an island nation in East Asia, is known for its stunning landscapes, vibrant culture, and technological prowess. Taipei, its capital, is a bustling metropolis with iconic landmarks like Taipei 101. Taiwan's rich history is evident in its temples, such as Longshan, and traditional festivals like Lunar New Year. The island offers diverse natural beauty, from Taroko Gorge to Sun Moon Lake. Taiwan is renowned for its delicious street food, including beef noodles and bubble tea, contributing to its reputation as a food paradise.",
+		"image": "https://images.unsplash.com/photo-1571474004502-c1def214ac6d?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"price": "1,30,372"
 	},
 	{
-		id: 6,
-		name: "Vietnam",
-		info: "Vietnam, located in Southeast Asia, boasts a rich history, diverse culture, and breathtaking landscapes. Hanoi, the capital, reflects French colonial architecture alongside ancient temples like the Temple of Literature. Ho Chi Minh City, formerly Saigon, is a bustling hub of commerce and culture. Vietnam's natural beauty spans from Halong Bay's limestone islands to the terraced rice fields of Sapa. The country's cuisine, including pho and banh mi, is celebrated globally for its flavors and freshness. Vietnam's resilience and rapid economic growth make it a compelling destination in Asia.",
-		image: "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-		price: "80,600",
+		"id": 6,
+		"name": "Vietnam",
+		"info": "Vietnam, located in Southeast Asia, boasts a rich history, diverse culture, and breathtaking landscapes. Hanoi, the capital, reflects French colonial architecture alongside ancient temples like the Temple of Literature. Ho Chi Minh City, formerly Saigon, is a bustling hub of commerce and culture. Vietnam's natural beauty spans from Halong Bay's limestone islands to the terraced rice fields of Sapa. The country's cuisine, including pho and banh mi, is celebrated globally for its flavors and freshness. Vietnam's resilience and rapid economic growth make it a compelling destination in Asia.",
+		"image": "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"price": "80,600"
 	},
 	{
-		id: 7,
-		name: "Hong Kong",
-		info: "Hong Kong, a vibrant city-state in East Asia, dazzles with its iconic skyline, bustling harbor, and cultural diversity. As a global financial hub, Hong Kong blends modernity with tradition, evident in its towering skyscrapers and historic temples like Man Mo. The city's dynamic atmosphere is enriched by its culinary scene, offering everything from dim sum to Michelin-starred dining. Hong Kong's Victoria Peak provides panoramic views, while markets like Temple Street Night Market showcase local flair. Its blend of Chinese and Western influences, coupled with festivals like Chinese New Year and Dragon Boat Festival, creates a unique cultural tapestry.",
-		image: "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-		price: "1,20,440",
-	},
+		"id": 7,
+		"name": "Hong Kong",
+		"info": "Hong Kong, a vibrant city-state in East Asia, dazzles with its iconic skyline, bustling harbor, and cultural diversity. As a global financial hub, Hong Kong blends modernity with tradition, evident in its towering skyscrapers and historic temples like Man Mo. The city's dynamic atmosphere is enriched by its culinary scene, offering everything from dim sum to Michelin-starred dining. Hong Kong's Victoria Peak provides panoramic views, while markets like Temple Street Night Market showcase local flair. Its blend of Chinese and Western influences, coupled with festivals like Chinese New Year and Dragon Boat Festival, creates a unique cultural tapestry.",
+		"image": "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+		"price": "1,20,440"
+	}
 ]
